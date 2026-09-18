@@ -14,7 +14,7 @@ public class Static {
 }
 
     class Student {
-       static String clg;
+       String clg;
     
        public  void display() {
           System.out.println(" inStudent class ::" + clg);
