@@ -1,0 +1,7 @@
+interface inheritance {
+    
+
+    public static void main(String[] args) {
+        
+    }
+}
